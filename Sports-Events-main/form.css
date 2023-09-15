@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 500;
+}
+body {
+    height: 120vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #8c9095;
+    background-image: url('images/background-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.card{
+    background-color: rgb(114, 137, 127);
+}
+input {
+    width: 50%;
+  }
+
+.form-control{
+    width:100%;
+}
